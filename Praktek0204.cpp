@@ -16,6 +16,7 @@ int main(){
 	bps=luas*20;
 	cout<<"Biaya Pasang(Rp)\t:"<<bps<<"\n";
 	tb=bp+bps;
+	cout<<"Total Biaya(Rp)\t\t:"<<tb<<"\n";
 }
 	
 
