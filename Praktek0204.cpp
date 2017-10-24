@@ -11,6 +11,7 @@ int main(){
 	jb=luas/lb;
 	cout<<"Luas 1 box parket\t:"<<lb<<" m2\n";
 	cout<<"Jumlah box parket\t:"<<jb<<"\n";
+	bp=500*jb;
 }
 	
 
