@@ -12,6 +12,7 @@ int main(){
 	cout<<"Luas 1 box parket\t:"<<lb<<" m2\n";
 	cout<<"Jumlah box parket\t:"<<jb<<"\n";
 	bp=500*jb;
+	cout<<"Biaya parket(Rp)\t:"<<bp<<"\n";
 }
 	
 
