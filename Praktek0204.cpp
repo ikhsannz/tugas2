@@ -14,6 +14,7 @@ int main(){
 	bp=500*jb;
 	cout<<"Biaya parket(Rp)\t:"<<bp<<"\n";
 	bps=luas*20;
+	cout<<"Biaya Pasang(Rp)\t:"<<bps<<"\n";
 }
 	
 
