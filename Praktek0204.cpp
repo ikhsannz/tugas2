@@ -13,6 +13,7 @@ int main(){
 	cout<<"Jumlah box parket\t:"<<jb<<"\n";
 	bp=500*jb;
 	cout<<"Biaya parket(Rp)\t:"<<bp<<"\n";
+	bps=luas*20;
 }
 	
 
