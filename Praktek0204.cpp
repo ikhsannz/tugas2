@@ -7,5 +7,7 @@ int main(){
 	cout<<"Masukkan Luas Rumah(m2)\t:";
 	cin >> luas;
 	cout<<"Luas Rumah\t\t:"<<luas<<" m2\n";
+	lb=1.87596;
+	jb=luas/lb;
 }
 
