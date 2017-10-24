@@ -8,6 +8,6 @@ int main(){
 	cin >> luas;
 	cout<<"Luas Rumah\t\t:"<<luas<<" m2\n";
 	lb=1.87596;
-	jb=luas/lb;
 }
+	
 
